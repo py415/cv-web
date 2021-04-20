@@ -22,7 +22,7 @@ CV is a personal portfolio website where you can market yourself and showcase yo
 
 ## App Preview
 
-<img src="https://github.com/py415/app-resources/blob/master/web/CV/cv-full-screen.png">
+<img src="https://github.com/py415/app-resources/blob/master/web/cv/cv-full-screen.png">
 
 ## Credits
 
