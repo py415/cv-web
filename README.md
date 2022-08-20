@@ -24,7 +24,7 @@ CV is a personal portfolio website where you can market yourself and showcase yo
 
 ## 🎬 App Preview
 
-<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/compressed/1.%20cv-full-screen.png">
+<img src="https://raw.githubusercontent.com/py415/app-resources/master/Mockups/web/compressed/1.%20cv-full-screen.webp">
 
 ## 💳 Credits
 
